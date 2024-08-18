@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
-import { removeFromCart } from '../services/slices/cartslice'; // Make sure this path is correct
-import { updateCartItem } from '../services/slices/cartslice';
+import { removeFromCart } from '../services/slices/cartSlice'; // Make sure this path is correct
+import { updateCartItem } from '../services/slices/cartSlice';
 
 interface CartItem {
   id: string;

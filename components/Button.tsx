@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { CheckIcon, ShoppingCartIcon } from 'lucide-react';
 import { useDispatch, useSelector } from 'react-redux';
-import { addToCart } from '@/services/slices/cartslice';
+import { addToCart } from '@/services/slices/cartSlice';
 import { RootState } from '@/services/store';
 
 interface AnimatedAddToCartButtonProps {

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../services/store';
-import { removeFromCart, clearCart } from '../services/slices/cartslice';
+import { removeFromCart, clearCart } from '../services/slices/cartSlice';
 import CartCard from './CartCard';
 
 interface CartProps {
