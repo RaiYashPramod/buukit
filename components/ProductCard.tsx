@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import { addToCart } from '../services/slices/cartslice';
+import { addToCart } from '../services/slices/cartSlice';
 import { CheckIcon, ShoppingCartIcon } from 'lucide-react';
 import { AnimatedAddToCartButton } from './Button';
 

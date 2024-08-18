@@ -1,4 +1,4 @@
-// src/services/slices/cartslice.ts
+
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
 interface CartItem {
