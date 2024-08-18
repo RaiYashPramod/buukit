@@ -1,11 +1,17 @@
+'use client'
 import Navbar from "@/components/Navbar";
-import Head from "next/head";
-import Image from "next/image";
+import ProductList from "@/components/ProductList";
+import { store } from "@/services/store";
+import { Provider } from "react-redux";
+
 
 export default function Home() {
   return (
     <>
-      <Navbar />
+      <Provider store={store}>
+        <Navbar />
+        <ProductList />
+      </Provider>
     </>
   );
 }

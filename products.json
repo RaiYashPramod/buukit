@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Earbuds",
+    "image": "https://images.unsplash.com/photo-1648447269269-f6f3c1635c55?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 99.99,
+    "description": "High-quality wireless earbuds with noise cancellation."
+  },
+  {
+    "id": "2",
+    "name": "Smartwatch",
+    "image": "https://images.unsplash.com/photo-1503328427499-d92d1ac3d174?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 199.99,
+    "description": "A smartwatch with fitness tracking and notifications."
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Speaker",
+    "image": "https://images.unsplash.com/photo-1520860100614-a714deb4805f?q=80&w=2265&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with excellent sound quality."
+  },
+  {
+    "id": "4",
+    "name": "4K Ultra HD TV",
+    "image": "https://plus.unsplash.com/premium_photo-1683141392308-aaa39d916686?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8NGslMjB0dnxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 499.99,
+    "description": "40-inch 4K Ultra HD TV with smart features."
+  },
+  {
+    "id": "5",
+    "name": "Gaming Laptop",
+    "image": "https://cdn.ndtv.com/tech/images/gadgets/gaming_laptops_not_worth_ndtv.jpg",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with 16GB RAM and 512GB SSD."
+  },
+  {
+    "id": "6",
+    "name": "Digital Camera",
+    "image": "https://images.unsplash.com/photo-1495121553079-4c61bcce1894?q=80&w=2181&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 349.99,
+    "description": "Compact digital camera with 20MP resolution."
+  },
+  {
+    "id": "7",
+    "name": "Portable Charger",
+    "image": "https://plus.unsplash.com/premium_photo-1671017712452-92d279cb3363?q=80&w=2223&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 29.99,
+    "description": "Compact and high-capacity portable charger."
+  },
+  {
+    "id": "8",
+    "name": "Wireless Mouse",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=2334&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 24.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI."
+  },
+  {
+    "id": "9",
+    "name": "Headphones",
+    "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?q=80&w=2226&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 149.99,
+    "description": "Noise-cancelling over-ear headphones with high-fidelity sound."
+  },
+  {
+    "id": "10",
+    "name": "Smart Home Hub",
+    "image": "https://images.unsplash.com/photo-1723187024776-e3d4f6627e22?q=80&w=2172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 89.99,
+    "description": "Central hub for smart home devices with voice control."
+  }
+]
